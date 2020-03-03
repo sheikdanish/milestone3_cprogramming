@@ -1,0 +1,2 @@
+# milestone3_cprogramming
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9994c2fa3f1840cfbb86f3a88174fcb4)](https://app.codacy.com/manual/sheikdanish/milestone3_cprogramming?utm_source=github.com&utm_medium=referral&utm_content=sheikdanish/milestone3_cprogramming&utm_campaign=Badge_Grade_Dashboard)
